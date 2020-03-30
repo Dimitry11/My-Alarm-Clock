@@ -1,0 +1,13 @@
+H:\MY_GIT_REPO\My-Alarm-Clock\My Alarm Clock\My Alarm Clock\bin\Release\My Alarm Clock.exe.config
+H:\MY_GIT_REPO\My-Alarm-Clock\My Alarm Clock\My Alarm Clock\bin\Release\My Alarm Clock.exe
+H:\MY_GIT_REPO\My-Alarm-Clock\My Alarm Clock\My Alarm Clock\bin\Release\My Alarm Clock.pdb
+H:\MY_GIT_REPO\My-Alarm-Clock\My Alarm Clock\My Alarm Clock\obj\Release\My Alarm Clock.csprojAssemblyReference.cache
+H:\MY_GIT_REPO\My-Alarm-Clock\My Alarm Clock\My Alarm Clock\obj\Release\MainWindow.baml
+H:\MY_GIT_REPO\My-Alarm-Clock\My Alarm Clock\My Alarm Clock\obj\Release\MainWindow.g.cs
+H:\MY_GIT_REPO\My-Alarm-Clock\My Alarm Clock\My Alarm Clock\obj\Release\App.g.cs
+H:\MY_GIT_REPO\My-Alarm-Clock\My Alarm Clock\My Alarm Clock\obj\Release\My Alarm Clock_MarkupCompile.cache
+H:\MY_GIT_REPO\My-Alarm-Clock\My Alarm Clock\My Alarm Clock\obj\Release\My Alarm Clock.g.resources
+H:\MY_GIT_REPO\My-Alarm-Clock\My Alarm Clock\My Alarm Clock\obj\Release\My_Alarm_Clock.Properties.Resources.resources
+H:\MY_GIT_REPO\My-Alarm-Clock\My Alarm Clock\My Alarm Clock\obj\Release\My Alarm Clock.csproj.GenerateResource.cache
+H:\MY_GIT_REPO\My-Alarm-Clock\My Alarm Clock\My Alarm Clock\obj\Release\My Alarm Clock.exe
+H:\MY_GIT_REPO\My-Alarm-Clock\My Alarm Clock\My Alarm Clock\obj\Release\My Alarm Clock.pdb
